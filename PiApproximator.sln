@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiApproximator", "PiApproximator\PiApproximator.csproj", "{CEC61751-067B-4ECD-A2AD-020638567D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{041C454A-2E4E-4CB6-9B58-93713BED0A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Debug|x64.ActiveCfg = Debug|x64
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Debug|x64.Build.0 = Debug|x64
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Release|x64.ActiveCfg = Release|x64
+		{CEC61751-067B-4ECD-A2AD-020638567D3E}.Release|x64.Build.0 = Release|x64
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Debug|x64.ActiveCfg = Debug|x64
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Debug|x64.Build.0 = Debug|x64
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Release|x64.ActiveCfg = Release|x64
+		{041C454A-2E4E-4CB6-9B58-93713BED0A81}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F47289-C632-42FC-912F-4F8F0183DB09}
+	EndGlobalSection
+EndGlobal
